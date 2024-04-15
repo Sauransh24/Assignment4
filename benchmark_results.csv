@@ -1,0 +1,7 @@
+DataStructure,Operation,Time(ns)
+HashTable,Store,5327400
+HashTable,Verify,3761600
+UnsortedArray,Store,11487300
+UnsortedArray,Verify,8689700
+LinkedList,Store,6327400
+LinkedList,Verify,8048700
