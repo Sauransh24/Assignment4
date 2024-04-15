@@ -23,7 +23,7 @@ public class Main {
 
                 manager.LinkedListstore(username, password);
                 boolean verifiedLinkedList = manager.LinkedListverify(username, password);
-                System.out.println("Password verified in Unsorted Array: " + verifiedLinkedList);
+                System.out.println("Password verified in Linked List : " + verifiedLinkedList);
 
             } else {
                 System.out.println("Password does not meet strength requirements.");
